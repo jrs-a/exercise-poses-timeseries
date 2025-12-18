@@ -3,3 +3,4 @@ INPUT_DATA_PATH = /openpose_TRAIN
 OUTPUT_PATH =  /content/output/traintmp
 DATA_TYPE = default
 SEED_VALUES = 42
+EXERCISE = test
