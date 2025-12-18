@@ -1,0 +1,4 @@
+BASE_PATH = /content/exercise-poses-timeseries
+INPUT_DATA_PATH = /openpose_TRAIN
+OUTPUT_PATH =  /content/output/traintmp
+DATA_TYPE = default
